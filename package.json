@@ -1,0 +1,17 @@
+{
+  "name": "radio_station_app",
+  "version": "1.0.0",
+  "description": "learning building radio station app by which there is one emitter and multiple subscribers to listen the staion",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "radio",
+    "station"
+  ],
+  "author": "himanshu",
+  "license": "ISC"
+}
